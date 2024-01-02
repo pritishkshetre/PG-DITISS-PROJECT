@@ -1,1 +1,0 @@
-Create a Folder named "Filesplit" inside D drive in your PC/ LAPTOP before running this project.
